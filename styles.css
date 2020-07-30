@@ -1,0 +1,175 @@
+/*TODO: Add a background color or image to your website*/
+
+
+
+
+
+/*.button{
+  color: #1f4060;
+  font-size:30px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction:row;
+}
+*/
+
+/*.button{
+  color:#1f4060;
+  font-size:30px;
+  display:inline-block;
+  padding:14px 15px;
+  backgroud-color:teal;
+}*/
+
+#button_left{
+  color:#1f4060;
+  padding: 2px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left:500px;
+  border-right:2px #1f4060;
+  border-left:0px;
+  border-top:0px;
+  border-bottom:0px;
+  border-style:solid;
+  font-size:30px;
+  
+}
+
+#button_right{
+  color:#1f4060;
+  padding: 2px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size:30px;
+    }
+/*
+  a:link, a:visited {
+    background-color: #80bfff;
+    color:white;
+    padding: 14px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left:100px;
+    }
+*/
+a:hover, a:active {
+          color:#3e80c1;
+        }
+
+.cover{
+  background: url("https://cdn.glitch.com/a1243be5-d6b1-47db-947a-a247ad27d83e%2Fwhite_lake_turtle_abby%20(2).jpg?v=1595265742978");
+  height: 550px ;
+  background-size: 100%;
+  margin: 0px;
+  padding: 0px;
+  background-repeat: no-repeat;
+  font-size: 150px;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+
+p1{
+  font-size: 30px;
+  text-align: center;
+  float: right;
+  width: 700px;
+  padding-right:50px;
+  line-height:40px
+}
+
+p3{
+   font-size: 30px;
+  text-align: center;
+  float: right;
+  width: 700px;
+  padding-right:50px;
+  padding-top:50px;
+  line-height:40px;
+}
+
+
+  
+
+
+
+.header{
+  font-size: 50px;
+  text-align: center;
+  text-shadow:3px 3px gray;
+}
+
+h3{
+  font-size:50px;
+  width:1000px;
+  text-align:center; 
+}
+
+#boston_video{
+  display: flex;
+  justify-content:space-around;
+  padding-top:100px;
+  
+}
+
+img{
+  margin:15px;
+}
+
+p2{
+  font-size:30px;
+  float:right;
+  width:800px;
+  line-height:70px;
+  padding-top:100px;
+}
+
+.puzzle{
+  display:flex;
+  justify-content: flex-start;
+  flex-direction:column;
+}
+
+p4{
+  font-size:30px;
+  text-align:justified; 
+}
+
+#folks{
+ padding:100px 300px;
+}
+
+
+.glitch-embed-wrap {
+  display:flex;
+  flex-direction:row;
+  width:100%;
+  justify-content:space-around;
+  height:500px;
+  
+}
+/*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
+
+
+
+
+/*TODO: Use the * selector to reset the margin and padding to 0px*/
+
+
+
+
+
+/*TODO: Add styling rules for the text and images on your website.*/
+
+
+
+
+/*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
+
+
+
+
+/*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;/ 
